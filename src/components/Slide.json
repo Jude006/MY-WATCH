@@ -1,0 +1,47 @@
+
+
+[
+
+    {
+    "id": 1,
+    "image": "/images/slide1.jpg",
+    "name": "Princess anna",
+    "title": "Alberto watch",
+    "testimony": "From the office to outdoor adventures, this watch has stood the test of time. Its robust build and reliable performance make it a must-have for anyone seeking both durability and style."
+    },
+    {
+    "id": 2,
+    "image": "/images/slide2.jpg",
+    "name": "James Red",
+    "title": "Alberto watch",
+    "testimony": "The functionality of this watch is impressive. The chronograph is accurate, and the luminous hands are a great feature for nighttime use. It's a perfect blend of form and function."
+    },
+    {
+    "id": 3,
+    "image": "/images/slide3.avif",
+    "name": "David Jacks",
+    "title": "Alberto watch",
+    "testimony": "The functionality of this watch is impressive. The chronograph is accurate, and the luminous hands are a great feature for nighttime use. It's a perfect blend of form and function."
+    },
+    {
+    "id": 4,
+    "image": "/images/slide4.jpg",
+    "name": "Isreal Mike",
+    "title": "Alberto watch",
+    "testimony": "The functionality of this watch is impressive. The chronograph is accurate, and the luminous hands are a great feature for nighttime use. It's a perfect blend of form and function."
+    },
+    {
+    "id": 5,
+    "image": "/images/slide5.jpg",
+    "name": "John Rays",
+    "title": "Alberto watch",
+    "testimony": "From the office to outdoor adventures, this watch has stood the test of time. Its robust build and reliable performance make it a must-have for anyone seeking both durability and style."
+    },
+    {
+    "id": 6,
+    "image": "/images/slide6.avif",
+    "name": "Alex Sam",
+    "title": "Alberto watch",
+    "testimony": "From the office to outdoor adventures, this watch has stood the test of time. Its robust build and reliable performance make it a must-have for anyone seeking both durability and style."
+    }
+]

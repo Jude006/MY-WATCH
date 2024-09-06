@@ -1,0 +1,254 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Leather Men's Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 199.99,
+      "image": "/img/men1.jpg",
+      "category": "mens",
+      "color": "brown"
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Women's Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 149.99,
+      "image": "/img/women1.png",
+      "category": "women",
+      "color": "silver"
+    },
+    {
+      "id": 3,
+      "name": "Kids Digital Watch",
+      "rating": "⭐🌟⭐⭐",
+      "price": 59.99,
+      "image": "/img/kids1.png",
+      "category": "kids",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch Series 5",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 299.99,
+      "image": "/img/smart1.webp",
+      "category": "smartwatch",
+      "color": "black"
+    },
+    {
+      "id": 5,
+      "name": "Elegant Couple Watch Set",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 399.99,
+      "image": "/img/couple1.jpg",
+      "category": "couple",
+      "color": "gold"
+    },
+    {
+      "id": 6,
+      "name": "Leather Strap Women's Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 129.99,
+      "image": "/img/women2.jpg",
+      "category": "women",
+      "color": "red"
+    },
+    {
+      "id": 7,
+      "name": "Sporty Men's Digital Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 89.99,
+      "image": "/img/men2.png",
+      "category": "mens",
+      "color": "black"
+    },
+    {
+      "id": 8,
+      "name": "Kids Analog Watch",
+      "rating": "⭐⭐⭐⭐",
+      "price": 49.99,
+      "image": "/img/kids2.jpg",
+      "category": "kids",
+      "color": "pink"
+    },
+    {
+      "id": 9,
+      "name": "Luxury Smartwatch",
+      "rating": "⭐⭐⭐⭐",
+      "price": 349.99,
+      "image": "/img/smart2.webp",
+      "category": "smartwatch",
+      "color": "silver"
+    },
+    {
+      "id": 10,
+      "name": "Casual Couple Watch Set",
+      "rating": "⭐🌟⭐⭐",
+      "price": 199.99,
+      "image": "/img/couple2.jpg",
+      "category": "couple",
+      "color": "black"
+    },
+    {
+      "id": 11,
+      "name": "Leather Strap Men's Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 159.99,
+      "image": "/img/leather1.png",
+      "category": "leather",
+      "color": "brown"
+    },
+    {
+      "id": 12,
+      "name": "Gold-Plated Women's Watch",
+      "rating": "⭐🌟⭐⭐⭐",
+      "price": 189.99,
+      "image": "/img/women3.jpg",
+      "category": "women",
+      "color": "gold"
+    },
+    {
+      "id": 13,
+      "name": "Digital Kids Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 39.99,
+      "image": "/img/kids3.jpg",
+      "category": "kids",
+      "color": "green"
+    },
+    {
+      "id": 14,
+      "name": "Fitness Smartwatch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 199.99,
+      "image": "/img/smart3.jpg",
+      "category": "smartwatch",
+      "color": "blue"
+    },
+    {
+      "id": 15,
+      "name": "Rose Gold Couple Watch Set",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 299.99,
+      "image": "/img/couple3.jpg",
+      "category": "couple",
+      "color": "rose gold"
+    },
+    {
+      "id": 16,
+      "name": "Minimalist Men's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 119.99,
+      "image": "/img/men3.png",
+      "category": "mens",
+      "color": "silver"
+    },
+    {
+      "id": 17,
+      "name": "Classic Women's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 99.99,
+      "image": "/img/women4.jpg",
+      "category": "women",
+      "color": "black"
+    },
+    {
+      "id": 18,
+      "name": "Kids leather Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 69.99,
+      "image": "/img/leather2.avif",
+      "category": "leather",
+      "color": "yellow"
+    },
+    {
+      "id": 19,
+      "name": "Advanced Smartwatch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 399.99,
+      "image": "/img/smart4.jpg",
+      "category": "smartwatch",
+      "color": "grey"
+    },
+    {
+      "id": 20,
+      "name": "Classic Leather Couple Watch Set",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 249.99,
+      "image": "/img/men10.jpg",
+      "category": "couple",
+      "color": "brown"
+    },
+    {
+      "id": 21,
+      "name": "Digital Sport Men's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 139.99,
+      "image": "/img/men4.png",
+      "category": "mens",
+      "color": "green"
+    },
+    {
+      "id": 22,
+      "name": "Elegant Women's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 169.99,
+      "image": "/img/women5.jpg ",
+      "category": "women",
+      "color": "white"
+    },
+    {
+      "id": 23,
+      "name": "Waterproof Kids Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 59.99,
+      "image": "/img/men9.avif",
+      "category": "kids",
+      "color": "blue"
+    },
+    {
+      "id": 24,
+      "name": "Hybrid Smartwatch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 229.99,
+      "image": "/img/smart4.jpg",
+      "category": "smartwatch",
+      "color": "black"
+    },
+    {
+      "id": 25,
+      "name": "Premium Leather Couple Watch Set",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 349.99,
+      "image": "/img/leather3.jpg",
+      "category": "leather",
+      "color": "black"
+    },
+    {
+      "id": 26,
+      "name": "Digital Men's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 109.99,
+      "image": "/img/leather1.png",
+      "category": "leather",
+      "color": "blue"
+    },
+    {
+      "id": 27,
+      "name": "Classic Gold Women's Watch",
+      "rating":"⭐🌟⭐⭐⭐",
+      "price": 199.99,
+      "image": "/img/women6.jpg",
+      "category": "women",
+      "color": "gold"
+    },
+    {
+      "id": 28,
+      "name": "Stylish Kids Watch",
+      "rating": "⭐⭐⭐",
+      "price": 49.99,
+      "image": "/img/men7.png",
+      "category": "kids",
+      "color": "orange"
+    }
+]

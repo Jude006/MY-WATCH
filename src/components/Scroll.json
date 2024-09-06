@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "image": "/images/sec1.png",
+        "title": "Neo Splash",
+        "price": 2400,
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "image": "/images/sec2.png",
+        "title": "Neo Splash",
+        "price": 5400,
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 3,
+        "image": "/images/sec3.png",
+        "title": "Neo Splash",
+        "price": 1400,
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 4,
+        "image": "/images/sec4.png",
+        "title": "Neo Splash",
+        "price": 1600,
+        "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 5,
+        "image": "/images/sec5.png",
+        "title": "Neo Splash",
+        "price": 1400,
+        "rating": "⭐⭐⭐⭐"
+    }
+]
