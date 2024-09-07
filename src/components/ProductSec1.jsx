@@ -36,7 +36,7 @@ function ProductSec1() {
     };
 
     return (
-        <div className='grid grid-cols-12 gap-8 mt-10 py-10 lg:px-20 md:px-10 font-mont h-[140vh] px-4 bg-white'>
+        <div className='grid grid-cols-12 gap-8 mt-10 py-10 lg:px-20 md:px-10 font-mont md:h-[140vh] px-4 bg-white'>
             <div className='md:col-span-4 shadow col-span-12 py-4 pl-4 md:pr-10 bg-white'>
                 <div>
                     <h1 className='text-xl font-bold'>Search Products</h1>

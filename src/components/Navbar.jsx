@@ -71,7 +71,7 @@ function Navbar() {
                         <Link onClick={() => setShowMenu(false)} to='/Product'><li>Product</li></Link>
                         <Link onClick={() => setShowMenu(false)} to='/Gallery'><li>Gallery</li></Link>
                         <Link onClick={() => setShowMenu(false)} to='/Contact'><li>Contact Us</li></Link>
-                        <Link className='hover:text-tertiary duration-300 ease-out' to='/Cart'><li className='flex'><FaCartShopping /> <sup>{updateCount}</sup></li></Link>
+                        <Link onClick={() => setShowMenu(false)} className='hover:text-tertiary duration-300 ease-out' to='/Cart'><li className='flex'><FaCartShopping /> <sup>{updateCount}</sup></li></Link>
                     </ul>
                 </div>
             )}
